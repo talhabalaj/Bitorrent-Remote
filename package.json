@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/talhabalaj/bittorrent-remote/issues"
   },
-  "homepage": "https://github.com/talhabalaj/bittorrent-remote#readme"
+  "homepage": "https://github.com/talhabalaj/bittorrent-remote#readme",
+  "dependencies": {
+    "utorrent-api": "^0.1.5"
+  }
 }
