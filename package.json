@@ -2,7 +2,7 @@
   "name": "bitorrent-remote",
   "version": "1.0.0",
   "description": "Bittorrent remote using the WebUI API",
-  "main": "index.js",
+  "private": true, 
   "scripts": {
     "build": ""
   },
