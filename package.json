@@ -4,7 +4,7 @@
   "description": "Bittorrent remote using the WebUI API",
   "private": true, 
   "scripts": {
-    "build": ""
+    "build": "webpack"
   },
   "repository": {
     "type": "git",
